@@ -32,7 +32,7 @@ public class TakeSS {
 		TakesScreenshot ts= (TakesScreenshot)driver;
 
 		File source= ts.getScreenshotAs(OutputType.FILE);
-		File dest= new File("E:/Satish Jaiswal/DailySanity2022/Production-IND/" + driver.getTitle() +" " + timestamp + ".png");
+		File dest= new File("E:/Satish Jaiswal/DailySanity2022/AutoupdatedALLenv/" + driver.getTitle() +" " + timestamp + ".png");
 		FileUtils.copyFile(source,dest);
 
 

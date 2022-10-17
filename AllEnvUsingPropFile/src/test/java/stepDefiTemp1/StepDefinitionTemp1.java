@@ -3,11 +3,13 @@ package stepDefiTemp1;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -48,8 +50,8 @@ public class StepDefinitionTemp1 {
 	public void afterStepHook() throws IOException, InterruptedException {
 
 		screenshots = new TakeSS(driver);
-		//	screenshots.takeScreenshot();
-		Thread.sleep(1000);
+		screenshots.takeScreenshot();
+		Thread.sleep(3000);
 	}
 
 
@@ -63,22 +65,22 @@ public class StepDefinitionTemp1 {
 
 		WebDriverManager.chromedriver().setup();
 		driver= new ChromeDriver();
-		
+
 
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 
-		
+
 		fis= new FileInputStream(PropertiesFilepath);
 		prop.load(fis);	
 
 		driver.navigate().to(prop.getProperty("url"));
 		fis.close();
 
-		
+
 		logger.info(" Browser Started for URL- " +prop.getProperty("url"));
 		logger.info("This is login page");
-		
+
 	}
 
 
@@ -89,7 +91,7 @@ public class StepDefinitionTemp1 {
 
 		pages.entrUsernam();
 		pages.entrPassword();
-		//pages.clikButon();	
+		pages.clikButon();	
 
 		Thread.sleep(3000);
 		logger.info("This is Homepage page");
@@ -97,30 +99,216 @@ public class StepDefinitionTemp1 {
 	}
 
 
+
 	//	=========	Recognize Page  ========
-	
-	@And ("^Clicks on Recognize$")
+	@And ("^Clicks on Recognize link$")
 	public void recogLink() throws InterruptedException, IOException {
 
 		System.out.println("test");
 
 		pages.clickRecognize();
+		screenshots.takeScreenshot();
+		logger.info("This is Recognize page");
 
-		/*
-			screenshots.takeScreenshot();
-			logger.info("This is Recognize page");
-
-			Thread.sleep(2000);
-			JavascriptExecutor js = (JavascriptExecutor) driver;
-			js.executeScript("window.scrollBy(0,550)");
-
-		 */
+		Thread.sleep(2000);
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("window.scrollBy(0,550)");
 
 	}
 
-	@Then ("^User is on homepage$")
-	public void homepage() throws InterruptedException {
+
+	//	=========	Skill Insight Page  ========
+	@When ("^Clicks on Skill Insight link$")
+	public void skillinsightLink() throws InterruptedException {
+		System.out.println("test");
+		pages.clickSkillInsight();
+		logger.info("This is Feedback page");
+	}
+
+
+	//	=========	 Wellness  Page  ========
+	@And ("^Clicks on Wellness link$")
+	public void WellnessLink() throws InterruptedException {
+		System.out.println("test");
+			pages.clickWellness();
+		logger.info("This is Wellness page");
+	}
+
+
+
+	//=========	 Survey  Page  ========
+	@When ("^Clicks on Survey link$")
+	public void SurveyLink() throws InterruptedException {
+		System.out.println("test");
+		pages.clickSurvey();
+		logger.info("This is Survey page");
+	}
+
+
+
+	//	=========	 My Summary  Page  ========
+	@And ("^Clicks on My Summary link$")
+	public void MySummaryLink() throws InterruptedException, IOException {
+		System.out.println("test");
+		
+		pages.clickMySummary();
+		screenshots.takeScreenshot();
+		//logger.info("This is My Summary page");
+
+		Thread.sleep(3000);
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("window.scrollBy(0,790)");
+
+		
+
+	}
+
+	//	=========	 Redeem Page  ========
+	@When ("^Clicks on Redeem link$")
+	public void RedeemLink() throws InterruptedException {
+		System.out.println("test");
+		pages.clickRedeem();
+		logger.info("This is Redeem page");
+	}
+
+
+	//	=========	 Dashboard & Reports Page  ========
+	@And ("^Clicks on Dashboard link$")
+	public void DashboardLink() throws InterruptedException, IOException {
+		System.out.println("test");
+
+		
+		pages.clickDashboard();	
+		Thread.sleep(2000);
+
+		screenshots.takeScreenshot();
+		//		logger.info("This is Dashboard page");
+
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+
+		js.executeScript("window.scrollBy(0,740)");
+		screenshots.takeScreenshot();
 		Thread.sleep(1000);
+
+
+		js.executeScript("window.scrollBy(0,630)");
+		screenshots.takeScreenshot();
+		Thread.sleep(1000);
+
+
+		js.executeScript("window.scrollBy(0,550)");
+		screenshots.takeScreenshot();
+		Thread.sleep(1000);
+
+		js.executeScript("window.scrollBy(0,500)");
+		 
+	}
+
+
+	@When ("^Clicks on Reports tab$")
+	public void ReportTab() throws InterruptedException {
+		System.out.println("test");
+		pages.clickReports();
+				logger.info("This is Reports page");
+
+	}
+
+	@And ("^Clicks on Budget Head Report option from Select Report dropdown$")
+	public void clickBudgetHeadReport() throws InterruptedException {
+		System.out.println("test");
+		
+		pages.clickSelectReportDropdown();
+		Thread.sleep(1000);
+		pages.clickBudgetHeadReport();
+		Thread.sleep(1000);
+		logger.info("This is Budget Head Report page");
+		 
+	}
+
+
+	@When ("^Clicks on Recognitions Report option from Select Report dropdown$")
+	public void clickRecognitionsReport() throws InterruptedException {
+		System.out.println("test");
+		
+		pages.clickSelectReportDropdown();
+		Thread.sleep(1000);
+		pages.clickRecognitionsReport();
+		Thread.sleep(5000);
+		logger.info("This is Recognitions Report page");
+		 
+	}
+
+	@And ("^Clicks on Redemption Report option from Select Report dropdown$")
+	public void clickRedemptionReport() throws InterruptedException {
+		System.out.println("test");
+
+		pages.clickSelectReportDropdown();
+		Thread.sleep(1000);
+		pages.clickRedemptionReport();
+		Thread.sleep(3000);
+		logger.info("This is Redemption Report page");
+	}
+
+	@When ("^Clicks on User Login Report option from Select Report dropdown$")
+	public void clickUserLoginReport() throws InterruptedException {
+
+		System.out.println("test");
+		
+		pages.clickSelectReportDropdown();
+		Thread.sleep(1000);
+		pages.clickUserLoginReport();
+
+		logger.info("This is User Login Report page");
+		 
+	}
+
+
+	@And ("^Clicks on Data Visualization tab$")
+	public void dataVisualizationTab() throws InterruptedException {
+
+		System.out.println("test");
+
+			pages.clickVisualization();
+		logger.info("This is Data Visualization page");
+
+	}
+
+
+	//=========	 Admin Console Page  ========
+
+	@When ("^Clicks on Admin Console link wrt Staging$")
+	public void adminConsole() throws InterruptedException, IOException {
+		System.out.println("test");
+
+
+		pages.clickUserprofile();
+		Thread.sleep(2000);
+
+		pages.clickAdminConsole();
+		Thread.sleep(8000);
+
+
+
+		// ==============  switch to next tab ===========================
+
+
+		String currentTab = driver.getWindowHandle();
+
+		ArrayList<String> newTab = new ArrayList<String>(driver.getWindowHandles());
+		newTab.remove(currentTab);
+
+		driver.switchTo().window(newTab.get(0));
+		Thread.sleep(8000);
+
+		screenshots.takeScreenshot();
+		logger.info("This is Admin Console page");
+
+		driver.close();
+
+		driver.switchTo().window(currentTab);
+		Thread.sleep(500);
+
+		pages.clickUserprofile();
 
 	}
 
@@ -248,7 +436,7 @@ public class StepDefinitionTemp1 {
 		prop.setProperty("url", "https://goinfinity.beyond360hub.com/");
 		prop.store(fos, "url updated");
 		fos.close();
-		
+
 		logger.info("url set as HUB Environment in properties file");
 
 		driver.close();
@@ -291,7 +479,7 @@ public class StepDefinitionTemp1 {
 		prop.setProperty("url", "https://goinfinity.beyond360apps.com/");
 		prop.store(fos, "url updated");
 		fos.close();
-		
+
 		logger.info("url set as Staging Environment in properties file");
 
 		driver.close();
