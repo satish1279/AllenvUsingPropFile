@@ -49,6 +49,10 @@ public class ElementsTemp1 {
 
 	//============== All Pages ============//
 
+	@FindBy(css="a[class='cursorPointer'][href='Home/Index']")
+	WebElement link_Homepage;
+	
+	
 	@FindBy(css="a[class='cursorPointer'][href='Recognize/Recognize']")
 	WebElement link_recognize;
 
@@ -109,10 +113,10 @@ public class ElementsTemp1 {
 	@FindBy(xpath="//ul[@class='horizontal_block_tab_menu clearfix']/li[2]/a[1]")
 	WebElement tab_DataVisualization;
 
-	
+
 	@FindBy(css="span[class='sm site_title']")
 	WebElement logo;
-	
+
 
 	//============== Constructor ============//
 
@@ -164,16 +168,28 @@ public class ElementsTemp1 {
 
 	//============== All Pages ============//
 
-	public void clickRecognize() {	
+	public void clickHome() {
+		link_Homepage.click();
+	}
+
+	
+	public void clickRecognize() {
 		link_recognize.click();
 	}
 
-	public void clickSkillInsight() {	
+
+	public void clickSkillInsight() {
+
 		link_skillInsight.click();
 	}
+	
 
+	
 	public void clickWellness() {	
-		link_wellness.click();
+	
+			link_wellness.click();
+	
+
 	}
 
 	public void clickSurvey() {	
@@ -196,6 +212,10 @@ public class ElementsTemp1 {
 			OrderHistoryLink.sendKeys(openInNewtab);
 			}
 	 */
+
+
+
+
 
 	public void clickRedeem() {	
 		link_redeem.click();

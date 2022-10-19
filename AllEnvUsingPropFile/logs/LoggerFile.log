@@ -69,3 +69,444 @@
 [INFO ] 2022-10-17 22:00:45.710 [main] StepDefinitionTemp1 -    Browser   Started   on   Goi  - Staging   environment
 [INFO ] 2022-10-17 22:00:45.721 [main] StepDefinitionTemp1 - This is login page
 [INFO ] 2022-10-17 22:00:50.622 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:15:48.507 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:15:48.515 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:15:58.003 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:16:18.174 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 10:16:30.702 [main] StepDefinitionTemp1 - This is Feedback page
+[INFO ] 2022-10-18 10:16:40.098 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-18 10:16:47.780 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-18 10:17:12.716 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-18 10:17:46.390 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:17:46.390 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:17:55.471 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:18:41.832 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:18:41.833 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:18:50.944 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:19:35.252 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:19:35.253 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:19:44.557 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:23:25.785 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:23:25.801 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:23:35.153 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:23:52.104 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 10:24:02.277 [main] StepDefinitionTemp1 - This is Feedback page
+[INFO ] 2022-10-18 10:24:12.508 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-18 10:24:20.857 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-18 10:24:48.887 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-18 10:25:44.515 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:25:44.515 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:25:53.663 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:26:44.159 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:26:44.159 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:26:53.568 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:27:48.632 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:27:48.632 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:27:58.064 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:37:28.649 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:37:28.656 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:37:37.872 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:37:50.982 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 10:38:01.516 [main] StepDefinitionTemp1 - This is Feedback page
+[INFO ] 2022-10-18 10:38:09.780 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-18 10:38:17.815 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-18 10:38:44.517 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-18 10:39:26.424 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:39:26.425 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:44:59.615 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:44:59.628 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:45:09.234 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:45:21.470 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 10:45:32.466 [main] StepDefinitionTemp1 - This is Feedback page
+[INFO ] 2022-10-18 10:45:40.918 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-18 10:45:48.800 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-18 10:46:15.372 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-18 10:47:05.499 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:47:05.500 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:56:51.361 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:56:51.366 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:57:00.625 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:57:36.216 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 10:57:36.222 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 10:57:45.431 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 10:57:56.495 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 11:00:20.198 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 11:00:20.213 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 11:00:29.479 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 11:00:41.556 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 11:03:03.173 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 11:03:03.181 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 11:03:12.467 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 11:03:24.969 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 11:04:23.386 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 11:04:23.387 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 11:04:32.665 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 11:07:08.315 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 11:07:08.323 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 11:07:17.909 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 11:07:30.020 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 11:58:21.261 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 11:58:21.272 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 11:58:30.427 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 11:58:42.899 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 11:59:28.202 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-18 11:59:36.485 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-18 11:59:48.623 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-18 11:59:58.677 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-18 12:00:05.802 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-18 12:00:13.461 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-18 12:00:39.614 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-18 12:00:58.996 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-18 12:04:43.073 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 12:04:43.078 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 12:04:52.275 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 12:05:05.130 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 12:05:49.824 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 12:05:49.824 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 12:05:59.001 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 12:06:55.712 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 12:06:55.713 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 12:07:05.592 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 12:07:52.952 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 12:07:52.952 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 12:08:02.218 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 12:15:21.374 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 12:15:21.381 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 12:15:31.097 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 12:15:49.891 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 12:16:00.160 [main] StepDefinitionTemp1 - This is Feedback page
+[INFO ] 2022-10-18 12:16:08.571 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-18 12:16:16.240 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-18 12:16:42.512 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-18 12:17:26.782 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-18 12:17:35.031 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-18 12:17:47.099 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-18 12:17:57.115 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-18 12:18:04.244 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-18 12:18:12.070 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-18 12:18:36.268 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-18 12:18:55.607 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-18 12:19:03.913 [main] StepDefinitionTemp1 - url set as Beyond USdemo Environment in properties file
+[INFO ] 2022-10-18 12:19:04.093 [main] StepDefinitionTemp1 - Browser Closed
+[INFO ] 2022-10-18 12:19:52.992 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 12:19:52.993 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 12:20:02.397 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 12:20:18.694 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 12:20:54.563 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 12:20:54.564 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 12:21:04.057 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 12:21:40.018 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 12:21:40.018 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 12:21:49.366 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 13:41:57.013 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 13:41:57.021 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 13:42:06.330 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 13:42:35.193 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 13:42:35.200 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 13:42:44.455 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 13:42:56.645 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 13:45:24.463 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 13:45:24.471 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 13:45:33.758 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 13:45:45.455 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 13:49:16.871 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 13:49:16.882 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 13:49:28.195 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 13:49:42.817 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 15:14:48.073 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 15:14:48.082 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 15:14:59.768 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 15:15:11.824 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 15:16:47.113 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 15:16:47.120 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 15:16:58.798 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 15:17:12.204 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 15:34:22.942 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 15:34:22.947 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 15:34:34.617 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 15:34:46.863 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 16:00:20.047 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 16:00:20.057 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 16:00:31.661 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 16:00:43.011 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 16:03:40.347 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 16:03:40.356 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 16:03:51.933 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 16:04:04.938 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 16:06:08.103 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 16:06:08.110 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 16:06:21.233 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 16:06:36.593 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 16:12:11.443 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 16:12:11.452 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 16:12:23.230 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 16:12:35.261 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 16:15:51.315 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 16:15:51.320 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 16:16:02.928 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 16:16:15.425 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 16:21:25.079 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 16:21:25.084 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 16:21:36.751 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 16:21:50.220 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 16:25:18.634 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 16:25:18.642 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 16:25:30.252 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 16:25:42.434 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 16:57:02.153 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 16:57:02.160 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 16:57:13.908 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 16:57:28.122 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 18:23:07.178 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 18:23:07.190 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 18:23:18.417 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 18:23:32.494 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 18:25:57.682 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 18:25:57.690 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 18:26:09.389 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 18:26:21.702 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 18:30:37.247 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 18:30:37.256 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 18:30:49.046 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 18:31:02.261 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 18:39:38.067 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 18:39:38.075 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 18:41:11.112 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 18:41:11.126 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 18:56:10.491 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 18:56:10.497 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 18:56:22.431 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 18:57:01.787 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360test.com/
+[INFO ] 2022-10-18 18:57:01.798 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 18:57:13.414 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 18:57:26.643 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 19:06:36.913 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 19:06:36.921 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 19:06:48.563 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 19:07:28.814 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 19:07:28.814 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 19:07:39.923 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 19:08:26.354 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 19:08:26.354 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 19:08:37.491 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 19:12:49.734 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-18 19:12:49.743 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 19:13:00.983 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 19:13:15.680 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 19:13:35.772 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-18 19:14:05.581 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-18 19:14:55.025 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-18 19:15:05.705 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-18 19:15:20.083 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-18 19:15:32.313 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-18 19:15:41.453 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-18 19:15:51.512 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-18 19:16:29.286 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-18 19:16:53.081 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-18 19:17:03.413 [main] StepDefinitionTemp1 - url set as Beyond USdemo Environment in properties file
+[INFO ] 2022-10-18 19:17:03.608 [main] StepDefinitionTemp1 - Browser Closed
+[INFO ] 2022-10-18 19:17:22.281 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 19:17:22.282 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 19:17:33.474 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-18 19:17:48.316 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-18 19:18:07.976 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-18 19:18:37.074 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-18 19:19:25.871 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-18 19:19:36.309 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-18 19:19:50.682 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-18 19:20:02.987 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-18 19:20:54.091 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-18 19:20:54.092 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-18 19:21:05.664 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 15:43:02.969 [main] StepDefinitionTemp1 -  Browser Started for URL- http://beyondus-demo.beyond360apps.com/
+[INFO ] 2022-10-19 15:43:02.984 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 15:43:58.482 [main] StepDefinitionTemp1 -  Browser Started for URL- http://goinfinity.beyond360apps.com/
+[INFO ] 2022-10-19 15:43:58.492 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 15:44:07.777 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 15:44:28.205 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 15:44:39.421 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 15:44:48.119 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 15:45:13.804 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 15:46:00.828 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-19 15:46:09.552 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-19 15:46:21.647 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-19 15:46:32.111 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-19 15:46:39.497 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-19 15:46:47.535 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-19 15:47:09.984 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-19 15:47:29.694 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-19 15:47:37.991 [main] StepDefinitionTemp1 - url set as Goi Ind Production Environment in properties file
+[INFO ] 2022-10-19 15:47:38.203 [main] StepDefinitionTemp1 - Browser Closed
+[INFO ] 2022-10-19 15:47:49.019 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360tech.com/
+[INFO ] 2022-10-19 15:47:49.019 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 15:47:58.248 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 15:48:09.747 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 15:48:20.033 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 15:48:28.059 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 15:48:53.361 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 15:49:34.663 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-19 15:49:43.106 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-19 15:49:55.448 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-19 15:50:05.538 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-19 15:50:12.728 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-19 15:50:21.377 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-19 15:50:44.824 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-19 15:51:05.401 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-19 15:51:12.431 [main] StepDefinitionTemp1 - url set as HUB Environment in properties file
+[INFO ] 2022-10-19 15:51:12.796 [main] StepDefinitionTemp1 - Browser Closed
+[INFO ] 2022-10-19 15:51:28.616 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360hub.com/
+[INFO ] 2022-10-19 15:51:28.617 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 15:51:37.683 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 15:51:55.539 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 15:52:06.201 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 15:52:14.511 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 15:52:46.965 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 15:53:50.647 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360hub.com/
+[INFO ] 2022-10-19 15:53:50.648 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 15:54:00.178 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 16:02:42.929 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360hub.com
+[INFO ] 2022-10-19 16:02:42.936 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 16:02:54.022 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 16:03:06.883 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 16:03:17.609 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 16:03:34.489 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 16:04:01.314 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 16:11:24.012 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360hub.com
+[INFO ] 2022-10-19 16:11:24.018 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 16:11:35.724 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 16:11:56.500 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 16:12:07.592 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 16:12:16.835 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 16:12:51.544 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 16:16:03.006 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360hub.com
+[INFO ] 2022-10-19 16:16:03.017 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 16:16:13.726 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 16:16:28.321 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 16:16:39.493 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 16:16:48.589 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 16:17:15.327 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 16:18:17.258 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-19 16:18:26.787 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-19 16:18:39.947 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-19 16:18:51.328 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-19 16:18:59.811 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-19 16:19:09.335 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-19 16:19:37.475 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-19 16:19:58.823 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-19 16:20:07.505 [main] StepDefinitionTemp1 - url set as Goi Ind Production Environment in properties file
+[INFO ] 2022-10-19 16:20:07.791 [main] StepDefinitionTemp1 - Browser Closed
+[INFO ] 2022-10-19 16:20:17.020 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360tech.com
+[INFO ] 2022-10-19 16:20:17.021 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 16:20:27.610 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 16:20:39.195 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 18:42:49.099 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 18:42:49.105 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 18:42:59.480 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 18:43:13.110 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 18:43:24.267 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 18:43:32.991 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 18:44:00.485 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 18:44:21.918 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 18:44:21.919 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 18:45:50.490 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 18:45:50.499 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 18:46:01.011 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 18:46:23.408 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 18:46:35.353 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 18:46:44.041 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 18:47:11.370 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 18:47:56.956 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-19 18:48:06.116 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-19 18:48:19.267 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-19 18:48:30.328 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-19 18:48:38.450 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-19 18:48:47.430 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-19 18:49:33.778 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-19 18:49:55.141 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-19 18:50:04.253 [main] StepDefinitionTemp1 - url set as Goi Ind Production Environment in properties file
+[INFO ] 2022-10-19 18:50:04.578 [main] StepDefinitionTemp1 - Browser Closed
+[INFO ] 2022-10-19 18:50:11.742 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360tech.com
+[INFO ] 2022-10-19 18:50:11.743 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 18:50:22.347 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 18:50:34.152 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 18:50:44.325 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 18:50:52.453 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 18:51:16.843 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 18:51:56.982 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-19 18:52:06.185 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-19 18:52:19.163 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-19 18:52:30.215 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-19 18:52:38.435 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-19 18:52:47.504 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-19 18:53:15.633 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-19 18:53:38.029 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-19 18:53:46.173 [main] StepDefinitionTemp1 - url set as HUB Environment in properties file
+[INFO ] 2022-10-19 18:53:46.615 [main] StepDefinitionTemp1 - Browser Closed
+[INFO ] 2022-10-19 18:54:11.449 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360hub.com
+[INFO ] 2022-10-19 18:54:11.449 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 18:54:21.586 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 18:54:34.147 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 18:54:53.021 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 18:55:01.985 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 18:55:28.484 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 18:56:23.442 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-19 18:56:32.657 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-19 18:56:45.684 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-19 18:56:56.817 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-19 18:57:05.029 [main] StepDefinitionTemp1 - This is User Login Report page
+[INFO ] 2022-10-19 18:57:22.363 [main] StepDefinitionTemp1 - This is Data Visualization page
+[INFO ] 2022-10-19 18:57:54.263 [main] StepDefinitionTemp1 - This is Admin Console page
+[INFO ] 2022-10-19 18:58:16.669 [main] StepDefinitionTemp1 - This is LogOut page
+[INFO ] 2022-10-19 18:58:24.341 [main] StepDefinitionTemp1 - url set as Beyond USdemo Environment in properties file
+[INFO ] 2022-10-19 18:58:24.579 [main] StepDefinitionTemp1 - Browser Closed
+[INFO ] 2022-10-19 18:59:08.435 [main] StepDefinitionTemp1 -  Browser Started for URL- https://beyondus-demo.beyond360apps.com
+[INFO ] 2022-10-19 18:59:08.435 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 18:59:18.653 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 18:59:33.473 [main] StepDefinitionTemp1 - This is Recognize page
+[INFO ] 2022-10-19 18:59:45.609 [main] StepDefinitionTemp1 - This is Wellness page
+[INFO ] 2022-10-19 18:59:54.626 [main] StepDefinitionTemp1 - This is Survey page
+[INFO ] 2022-10-19 19:00:24.462 [main] StepDefinitionTemp1 - This is Redeem page
+[INFO ] 2022-10-19 19:01:14.466 [main] StepDefinitionTemp1 - This is Reports page
+[INFO ] 2022-10-19 19:01:23.558 [main] StepDefinitionTemp1 - This is Budget Head Report page
+[INFO ] 2022-10-19 19:01:36.618 [main] StepDefinitionTemp1 - This is Recognitions Report page
+[INFO ] 2022-10-19 19:01:47.613 [main] StepDefinitionTemp1 - This is Redemption Report page
+[INFO ] 2022-10-19 19:08:12.684 [main] StepDefinitionTemp1 -  Browser Started for URL- https://beyondus-demo.beyond360apps.com
+[INFO ] 2022-10-19 19:08:12.691 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:10:25.196 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:10:25.212 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:11:30.072 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:11:30.079 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:12:12.399 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:12:12.406 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:12:22.485 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 19:13:56.503 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:13:56.511 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:14:06.898 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 19:15:45.363 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:15:45.370 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:16:25.929 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:16:25.940 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:21:18.986 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:21:19.009 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:24:56.286 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:24:56.298 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:33:31.282 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:33:31.289 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:35:11.013 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:35:11.023 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:35:29.132 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:35:29.141 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:35:42.858 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:35:42.887 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:38:24.701 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:38:24.709 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:38:35.466 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 19:51:53.862 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 19:51:53.874 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 19:52:04.308 [main] StepDefinitionTemp1 - This is Homepage page
+[INFO ] 2022-10-19 21:32:44.571 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 21:32:44.578 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 21:46:17.534 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 21:46:17.550 [main] StepDefinitionTemp1 - This is login page
+[INFO ] 2022-10-19 21:46:25.799 [main] StepDefinitionTemp1 -  Browser Started for URL- https://goinfinity.beyond360apps.com
+[INFO ] 2022-10-19 21:46:25.801 [main] StepDefinitionTemp1 - This is login page
